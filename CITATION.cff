@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the following metadata."
+title: "UVB-76 Structured Transmission Timing Analysis (2010–2025)"
+authors:
+  - family-names: "Smith"
+    given-names: "Austin"
+repository-code: "https://github.com/Leerrooy96/UVB-76-Structured-Signal-Analysis"
+version: "1.0"
+date-released: "2025-10-30"
+preferred-citation:
+  type: dataset
+  title: "UVB-76 Structured Transmission Timing Dataset & Analysis"
+  authors:
+    - family-names: "Smith"
+      given-names: "Austin"
+  year: 2025
+  url: "https://github.com/Leerrooy96/UVB-76-Structured-Signal-Analysis/releases/tag/v1.0"
