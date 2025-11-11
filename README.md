@@ -21,7 +21,7 @@ https://github.com/Leerrooy95/UVB-76-analysis/tree/main
 ## Why k=3 Clusters?
 
 - **Elbow Method**: Inflection point at k=3  
-  ![Elbow Plot](cluster_analysis/elbow_plot.png)
+  ![Elbow Plot](elbow_plot.png)
 - **Silhouette Score**: Peak at 0.68 (k=3)
 - **Domain Fit**: Matches known cycles:
   1. Training (2010–2018)
