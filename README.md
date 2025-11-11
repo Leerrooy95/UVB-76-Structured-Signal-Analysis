@@ -18,15 +18,12 @@ https://github.com/Leerrooy95/UVB-76-analysis/tree/main
 
 **Method Toolkit**: [UVB-76-analysis Template](https://github.com/Leerrooy95/UVB-76-analysis)
 
-## Why k=3 Clusters?
+## Why k=3?
 
-- **Elbow Method**: Inflection point at k=3  
-  ![Elbow Plot](elbow_plot.png)
-- **Silhouette Score**: Peak at 0.68 (k=3)
-- **Domain Fit**: Matches known cycles:
-  1. Training (2010–2018)
-  2. Readiness (2019–2021)
-  3. Intensification (2022–2025)
+- **Elbow Method**: Inflection at k=3  
+  ![Elbow Plot](cluster_analysis/elbow_plot.png)
+- **Silhouette Score**: 0.68
+- **Domain Fit**: 2010–2018 (Training), 2019–2021 (Readiness), 2022–2025 (Intensification)
 
 This repository contains the datasets, analytical workflow, and supporting materials for a longitudinal study of UVB-76 / MDZhB transmission activity spanning 2010–2025. The analysis focuses not on message content, but on **unique spike-day frequency** and **seasonal transmission clustering**, treated as a proxy for operational and training-cycle timing.
 
