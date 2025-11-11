@@ -1,6 +1,22 @@
 # Reevaluating UVB-76: Empirical Evidence of Structured Military Timing Signatures in a 15-Year Transmission Dataset
 
 https://github.com/Leerrooy95/UVB-76-analysis/tree/main
+[![UVB-76](https://img.shields.io/badge/UVB--76-4625kHz-red)](https://en.wikipedia.org/wiki/UVB-76) [![Open Data](https://img.shields.io/badge/Data-2010–2025-green)](datasets/)
+
+**15-Year Empirical Analysis: Spike-Day Clustering & Military Cycle Alignment (p < 0.01).**
+
+> 7 voice messages → 7 spike days → Structured, not random.
+
+| Section | Contents | Key Insight |
+|---------|----------|-------------|
+| **Datasets** | Raw logs (2010–2025) | Monthly spikes from Priyom.org |
+| **Normalized Data** | Scaled % of year | Enables heatmaps/cross-year views |
+| **Paper** | Full report (PDF/DOCX) | K-means clusters + permutation tests |
+| **Methodology** | Extraction playbook | Reproducible steps (see template) |
+
+[Full Paper →](UVB-76_15_Year_Analysis.pdf) | [Cite →](CITATION.cff)
+
+**Method Toolkit**: [UVB-76-analysis Template](https://github.com/Leerrooy95/UVB-76-analysis)
 
 This repository contains the datasets, analytical workflow, and supporting materials for a longitudinal study of UVB-76 / MDZhB transmission activity spanning 2010–2025. The analysis focuses not on message content, but on **unique spike-day frequency** and **seasonal transmission clustering**, treated as a proxy for operational and training-cycle timing.
 
